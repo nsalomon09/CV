@@ -1,0 +1,99 @@
+body {
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(121,9,45,0.9808298319327731) 35%, rgba(0,212,255,1) 100%);
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+
+.espacio h2,ul,p,h4{
+    margin: 0%;
+}
+
+.sinmargen {
+    margin: 0%;
+}
+
+h1{
+    font-weight: 80;
+    text-align: center;
+    }
+
+#principal{
+    width: 68%;
+    float: right;   
+}
+
+.tit{
+    color:blue
+    ;
+}
+
+#presentacion{
+    background-color:white;
+    width: 95%;
+	height: 400px;
+    padding: 2%;
+    margin-bottom: 1%; 
+    float: right;
+    border: 3px solid black;
+    border-radius: 15px;
+}
+
+#laboral{
+    background-color: white;
+    width: 95%;
+    height: 400px; 
+    padding: 2%;
+    margin-bottom: 1%;  
+    float: right;
+    overflow: auto;
+    border: 3px solid black;
+    border-radius: 15px;
+}
+
+#educacion{
+    background-color: white;
+    width:95%;
+    height: 200px;
+    border: 2px solid black;
+    padding: 2%;
+    margin-bottom: 1%; 
+    float: right;
+    border: 3px solid black;
+    border-radius: 15px;
+    
+}
+
+#portfolio{
+    background-color: white;
+    width:95%;
+    height: 330px;
+    border: 2px solid black;
+    padding: 2%;
+    margin-bottom: 1%; 
+    float: right;
+    border: 3px solid black;
+    border-radius: 15px;
+}
+
+#botonera{
+    width: 24%;
+    margin-top: 0%;
+    padding: 2%;
+    float: left;
+    position: fixed;  
+    
+}
+
+ol {
+    list-style:none;    
+}
+
+img{
+    border: 3px solid black;
+    border-radius: 15px;
+}
+
+ul.iconos li{
+    list-style-type: none;
+    display: inline-block;
+}
